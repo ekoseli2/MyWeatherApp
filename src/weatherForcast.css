@@ -1,0 +1,16 @@
+.WeatherForecast {
+    text-align: center;
+    margin: 0 auto;
+  }
+  
+  .WeatherForecast canvas {
+    display: block;
+    margin: 0 auto;
+    width: 35px;
+    height: 35px;
+  }
+  
+  .WeatherForecastPreview {
+    font-size: 14px;
+    color: #145374;
+  }
